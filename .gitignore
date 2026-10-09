@@ -1,0 +1,42 @@
+# Unity-generated data and local editor state
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/UserSettings/
+**/[Bb]uilds/
+**/InitTestScene*.unity*
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.pdb
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated validation, benchmarks and delivery archives
+Artifacts/
+Benchmarks/
+Deliverables/
+Releases/
+ValidationInstall/
+ValidationProject/
+**/ArtifactExtraction/
+*.log
+*.zip
+*.tgz
+
+# Local secrets and signing materials
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+*.jks
+.aws/
+.codex/

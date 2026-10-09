@@ -1,0 +1,6 @@
+{
+  "name": "HighPerfUI.PlayerTests",
+  "references": ["HighPerfUI.Reference", "HighPerfUI.Runtime", "UnityEngine.UI"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

@@ -1,0 +1,5 @@
+{
+  "name": "HighPerfUI.Reference",
+  "references": ["HighPerfUI.Runtime", "UnityEngine.UI"],
+  "autoReferenced": true
+}

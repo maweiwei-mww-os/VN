@@ -1,0 +1,7 @@
+{
+  "name": "HighPerfUI.ReferenceTests",
+  "references": ["HighPerfUI.Reference", "HighPerfUI.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

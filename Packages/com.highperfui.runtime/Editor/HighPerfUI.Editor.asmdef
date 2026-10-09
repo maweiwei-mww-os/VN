@@ -1,0 +1,6 @@
+{
+  "name": "HighPerfUI.Editor",
+  "references": ["HighPerfUI.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

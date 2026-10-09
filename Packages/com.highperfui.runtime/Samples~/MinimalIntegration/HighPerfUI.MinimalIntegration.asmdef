@@ -1,0 +1,5 @@
+{
+  "name": "HighPerfUI.MinimalIntegration",
+  "references": ["HighPerfUI.Runtime", "UnityEngine.UI"],
+  "autoReferenced": true
+}

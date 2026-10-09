@@ -1,0 +1,7 @@
+{
+  "name": "HighPerfUI.EditModeTests",
+  "references": ["HighPerfUI.Runtime", "UnityEngine.UI"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

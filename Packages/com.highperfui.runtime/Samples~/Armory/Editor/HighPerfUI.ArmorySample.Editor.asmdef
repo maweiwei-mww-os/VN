@@ -1,0 +1,6 @@
+{
+  "name": "HighPerfUI.ArmorySample.Editor",
+  "references": ["HighPerfUI.Reference"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

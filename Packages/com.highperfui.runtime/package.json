@@ -1,0 +1,33 @@
+{
+  "name": "com.highperfui.runtime",
+  "version": "0.3.0-preview.3",
+  "displayName": "High Performance UI Runtime",
+  "description": "A Unity UGUI runtime focused on lazy fragments, incremental state commits, frame-budgeted scheduling, safe pooling, async binding guards and fixed-height list virtualization.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  },
+  "author": {
+    "name": "Project Prototype"
+  },
+  "samples": [
+    {
+      "displayName": "Minimal Integration",
+      "description": "Self-contained 2000-item list. Attach MinimalIntegrationDemo in an empty scene.",
+      "path": "Samples~/MinimalIntegration"
+    },
+    {
+      "displayName": "Reward List Demo",
+      "description": "Example wiring for a large reward list using virtualization, pooling, dirty-state commits and async sprite guards.",
+      "path": "Samples~/RewardList"
+    },
+    {
+      "displayName": "SLG Armory Business",
+      "description": "Playable equipment, upgrades and mixed rewards, with opt-in A/B/C diagnostics. Runtime has no dependency on this sample.",
+      "path": "Samples~/Armory"
+    }
+  ]
+}

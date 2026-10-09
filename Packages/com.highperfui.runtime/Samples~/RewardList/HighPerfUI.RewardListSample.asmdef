@@ -1,0 +1,10 @@
+{
+  "name": "HighPerfUI.RewardListSample",
+  "rootNamespace": "HighPerfUI.Samples.RewardList",
+  "references": ["HighPerfUI.Runtime", "UnityEngine.UI"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

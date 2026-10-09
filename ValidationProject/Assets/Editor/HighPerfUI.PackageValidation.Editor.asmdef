@@ -1,0 +1,6 @@
+{
+  "name": "HighPerfUI.PackageValidation.Editor",
+  "references": ["HighPerfUI.Reference"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
